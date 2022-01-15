@@ -4,8 +4,8 @@ Use this script to generate a random but not necessarily true fact about an anim
 
 ## Table of Contents
 
-- [Mixed-Messages or Mixed Facts]
-(#mixed-messages---mixed-facts)
+- [Mixed-Messages or Mixed Facts](#mixed-messages-or-mixed-facts)
+             
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Technologies](#technologies)
@@ -21,5 +21,8 @@ This is a CodeCademy Portofolio Project.
 - Markdown
 - Git/Github
 
+## Files
 
+Includes one file:
 
+- **script.js**
